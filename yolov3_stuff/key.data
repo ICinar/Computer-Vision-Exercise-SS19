@@ -1,0 +1,5 @@
+classes = 3 
+train  = /content/gdrive/My\ Drive/darknet/bin/cfg/train.txt  
+valid  = /content/gdrive/My\ Drive/darknet/bin/cfg/test.txt  
+names = /content/gdrive/My\ Drive/darknet/bin/cfg/key-obj.names  
+backup = /content/gdrive/My\ Drive/darknet/bin/cfg/backup/
